@@ -32,9 +32,6 @@ This repository also includes a Python implementation of the Number Guessing Gam
 
 ### Run Python Version
 
-```bash
-python Python/number_guesser.py
-```
 
-Author,
+by,
 Khan Salik
