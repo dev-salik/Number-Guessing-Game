@@ -31,5 +31,4 @@ This repository also includes a Python implementation of the Number Guessing Gam
 - Performance rating
 
 
-by,
-Khan Salik
+
