@@ -30,8 +30,6 @@ This repository also includes a Python implementation of the Number Guessing Gam
 - Play Again option
 - Performance rating
 
-### Run Python Version
-
 
 by,
 Khan Salik
